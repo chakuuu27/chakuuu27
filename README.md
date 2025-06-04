@@ -57,3 +57,6 @@ body:
       required: false
     - shit 33
     - 
+    - readme.md
+    - ı'github.com/:chakuuu27/edit/main🥇
+    - 
